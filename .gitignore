@@ -1,0 +1,26 @@
+# ===== Keil MDK 编译产物（中间文件，不用上传）=====
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.htm
+*.sct
+*.dep
+*.iex
+*.bak
+*.build_log.htm
+
+# Keil 个人设置：窗口布局、断点（每个人不一样，不用上传）
+*.uvguix.*
+DebugConfig/
+
+# ===== 编辑器 / 系统文件 =====
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
